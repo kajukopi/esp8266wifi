@@ -3,8 +3,8 @@
 #include <ArduinoOTA.h>
 
 // Replace these with your WiFi credentials
-const char* ssid = "YOUR_SSID";
-const char* password = "YOUR_PASSWORD";
+const char* ssid = "karimeoy";
+const char* password = "09871234";
 
 // Create web server on port 80
 ESP8266WebServer server(80);
